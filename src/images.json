@@ -1,0 +1,64 @@
+[
+    {
+      "id": 1,
+      "image": "https://vignette.wikia.nocookie.net/americanhorrorstory/images/4/4a/BJH.jpg/revision/latest/zoom-crop/width/240/height/240?cb=20111204223443",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "https://vignette.wikia.nocookie.net/coven/images/a/ae/Cordelia_Foxx.png/revision/latest?cb=20131111174549",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "https://vignette.wikia.nocookie.net/americanhorrorstory/images/c/c8/American-horror-story-freak-show_612x380.jpg/revision/latest/zoom-crop/width/240/height/240?cb=20141025140333",
+      "size": 200,
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "http://www.femalefirst.co.uk/image-library/square/500/j/jessica-lange-fiona-goode-american-horror-story-coven-ahs.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "https://vignette.wikia.nocookie.net/americanhorrorstory/images/a/a8/Web_cast_detail_series_dsktp_evanpeters1_ahs.jpg/revision/latest?cb=20141011031705",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "https://vignette.wikia.nocookie.net/villains/images/9/96/Sister_Jude.jpg/revision/latest?cb=20151129094426",
+      "clicked": false
+    },
+
+    {
+      "id": 7,
+      "image": "https://i0.wp.com/watchama.fr/wp-content/uploads/2018/02/Evan-Peters-as-Kit-Walker-on-American-Horror-Story-Season-2-Asylum-S02E04-2.png?fit=948%2C533&ssl=1",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "https://vignette.wikia.nocookie.net/americanhorrorstory/images/8/84/AHS_Coven_-_Photoshoot_-_Kyle_Spencer_%28infobox%29.jpg/revision/latest?cb=20170918132515",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "https://vignette.wikia.nocookie.net/americanhorrorstory/images/5/52/Paulson-001.jpg/revision/latest/top-crop/width/320/height/320?cb=20150923042734",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "https://vignette.wikia.nocookie.net/americanhorrorstory/images/0/01/Scnet_ahs_promos01_019.jpg/revision/latest?cb=20170901150853",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "https://pp.userapi.com/c310127/v310127758/5d4/daYl4WoPIsc.jpg",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "https://vignette.wikia.nocookie.net/americanhorrorstory/images/6/6a/MurderHouse3.jpg/revision/latest?cb=20170918121337",
+      "clicked": false
+    }
+  ]
